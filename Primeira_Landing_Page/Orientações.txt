@@ -1,0 +1,10 @@
+Página
+│
+├── header
+│   └── Nome + apresentação
+│
+├── main
+│   └── Conteúdo dos treinos
+│
+└── footer
+    └── Informações finais
