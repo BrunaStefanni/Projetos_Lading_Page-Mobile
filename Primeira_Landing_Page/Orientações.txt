@@ -8,3 +8,43 @@ Página
 │
 └── footer
     └── Informações finais
+
+Ordem da Página
+1 ✅ Header (capa)
+2 🔄 Planner semanal (você está fazendo agora)
+3 Seção "Meus treinos" com detalhes
+4 Seção "Minha evolução"
+5 Footer
+
+┌─────────────────────────┐
+│ HEADER                  │
+│ Training Hub            │
+│ Apresentação            │
+└─────────────────────────┘
+          ↓ scroll
+
+┌─────────────────────────┐
+│ SOBRE                   │
+│ Minha rotina            │
+│ Objetivos               │
+└─────────────────────────┘
+          ↓ scroll
+
+┌─────────────────────────┐
+│ PLANNER SEMANAL         │
+│ Seg  Ter  Qua           │
+│ Qui  Sex  Sáb           │
+└─────────────────────────┘
+          ↓ scroll
+
+┌─────────────────────────┐
+│ TREINOS DETALHADOS      │
+│ Exercícios              │
+│ Séries                  │
+└─────────────────────────┘
+          ↓ scroll
+
+┌─────────────────────────┐
+│ FOOTER                  │
+│ Contatos                │
+└─────────────────────────┘

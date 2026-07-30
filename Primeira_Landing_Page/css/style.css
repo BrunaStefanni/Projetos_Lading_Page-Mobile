@@ -1,0 +1,34 @@
+*{ 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+/* Scrolling da Página */
+html {
+    scroll-behavior: smooth;
+}
+
+section {
+    min-height: 100vh;
+    padding: 50px;
+}
+
+/* Menu de navegação */
+nav ul {
+    list-style: none;
+    display: flex;
+    gap: 30px;
+}
+
+nav a {
+    text-decoration: none;
+    color: rgb(86, 3, 118);
+    font-size: 18px;
+
+}
+body {
+    background-color: #727c93;
+    color: white;
+}
