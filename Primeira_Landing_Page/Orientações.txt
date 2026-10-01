@@ -48,3 +48,29 @@ Ordem da Página
 │ FOOTER                  │
 │ Contatos                │
 └─────────────────────────┘
+
+header = apresentação
+main = conteúdo
+section = blocos da página
+div = caixas/containers
+class = nome para o CSS encontrar
+id = ponto de navegação
+
+Training Hub
+│
+├── HTML
+│   ├── Header
+│   ├── Nav
+│   ├── Main
+│   │   ├── Resumo
+│   │   └── Planner semanal
+│   └── Footer (próximo)
+│
+├── CSS
+│   ├── Reset
+│   ├── Scroll suave
+│   ├── Menu
+│   └── Cores básicas
+│
+└── JS
+    └── Futuramente interações
